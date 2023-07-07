@@ -1,3 +1,8 @@
+Why did this get forked?
+
+previous price calculator is hard coded to arweave.net. I wanted to make this less brittle, and make this a better permaweb app by getting the calculator to use
+the gateway that served it. Also, I ported it to my favorite build tool, Vite, because i was having issues with snowpack.
+
 # ArDrive Price Calculator
 
 ## Developer Setup
